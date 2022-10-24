@@ -1,7 +1,7 @@
-Use of Machine Learning Algorithm (Logistic Algorithm) to predict Diabetic person using other attributes.
+## Use of Machine Learning Algorithm (Logistic Algorithm) to predict Diabetic person using other attributes.
 
 
-# Hi, I'm Ravi Shankar Yadav
+## Hi, I'm Ravi Shankar Yadav
 
 
 ##  About Me
